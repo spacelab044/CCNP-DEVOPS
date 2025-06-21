@@ -4,7 +4,7 @@
  Ephone 1 Mac Add  = ccd8.c1fb.0953
  Ephone 2 Mac Add  = ccd8.c1fb.0966
 
-- name: "Day 1 Config: CUCM"
+- name: "Day 1 Config: cucm"
   hosts: cucm
   gather_facts: no
   become: yes
