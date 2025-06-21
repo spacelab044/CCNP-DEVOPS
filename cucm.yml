@@ -1,8 +1,8 @@
 ---
 
- Monitor Number    = 51
- Ephone 1 Mac Add  = ccd8.c1fb.0953
- Ephone 2 Mac Add  = ccd8.c1fb.0966
+# Monitor Number    = 51
+# Ephone 1 Mac Add  = ccd8.c1fb.0953
+# Ephone 2 Mac Add  = ccd8.c1fb.0966
 
 - name: "Day 1 Config: cucm"
   hosts: cucm
